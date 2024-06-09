@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e17e5be6.css",
-    "main.js": "/portfolio/static/js/main.a7718086.js",
-    "static/media/matthew.jpg": "/portfolio/static/media/matthew.ad9a06d16bb2dc31c1cf.jpg",
-    "static/media/p1.png": "/portfolio/static/media/p1.a6be90f2e4761aa15d7c.png",
-    "static/media/nodejs.png": "/portfolio/static/media/nodejs.5184b1003ce2a7025886.png",
-    "static/media/html.png": "/portfolio/static/media/html.60100954a29d51093dd0.png",
-    "static/media/c.png": "/portfolio/static/media/c.5cfb81a9d888b1ad2129.png",
-    "static/media/reactjs.png": "/portfolio/static/media/reactjs.90d683b44630d83477d6.png",
-    "static/media/css.png": "/portfolio/static/media/css.c179d2f878e46a01738f.png",
-    "static/media/js.png": "/portfolio/static/media/js.55f70400e0a734409a3f.png",
-    "static/media/tailwind.png": "/portfolio/static/media/tailwind.5225d1e74578d3d76c1a.png",
-    "static/media/nextjs2.png": "/portfolio/static/media/nextjs2.7621ae8afb9d9415775e.png",
-    "static/media/python.png": "/portfolio/static/media/python.69e1b4cd0a7c66a1d73c.png",
-    "index.html": "/portfolio/index.html",
-    "main.e17e5be6.css.map": "/portfolio/static/css/main.e17e5be6.css.map",
-    "main.a7718086.js.map": "/portfolio/static/js/main.a7718086.js.map"
+    "main.css": "/my-portfolio/static/css/main.e17e5be6.css",
+    "main.js": "/my-portfolio/static/js/main.b9e13b2b.js",
+    "static/media/matthew.jpg": "/my-portfolio/static/media/matthew.ad9a06d16bb2dc31c1cf.jpg",
+    "static/media/p1.png": "/my-portfolio/static/media/p1.a6be90f2e4761aa15d7c.png",
+    "static/media/nodejs.png": "/my-portfolio/static/media/nodejs.5184b1003ce2a7025886.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.60100954a29d51093dd0.png",
+    "static/media/c.png": "/my-portfolio/static/media/c.5cfb81a9d888b1ad2129.png",
+    "static/media/reactjs.png": "/my-portfolio/static/media/reactjs.90d683b44630d83477d6.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.c179d2f878e46a01738f.png",
+    "static/media/js.png": "/my-portfolio/static/media/js.55f70400e0a734409a3f.png",
+    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.5225d1e74578d3d76c1a.png",
+    "static/media/nextjs2.png": "/my-portfolio/static/media/nextjs2.7621ae8afb9d9415775e.png",
+    "static/media/python.png": "/my-portfolio/static/media/python.69e1b4cd0a7c66a1d73c.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.e17e5be6.css.map": "/my-portfolio/static/css/main.e17e5be6.css.map",
+    "main.b9e13b2b.js.map": "/my-portfolio/static/js/main.b9e13b2b.js.map"
   },
   "entrypoints": [
     "static/css/main.e17e5be6.css",
-    "static/js/main.a7718086.js"
+    "static/js/main.b9e13b2b.js"
   ]
 }
